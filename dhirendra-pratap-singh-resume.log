@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.1)  6 MAY 2025 18:45
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.1)  6 MAY 2025 18:58
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -723,11 +723,11 @@ ge=dflt;+smcp;"
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Lig(0)/m/sc' undefined
-(Font)              using `TU/Lato-Lig(0)/m/n' instead on input line 76.
+(Font)              using `TU/Lato-Lig(0)/m/n' instead on input line 106.
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Lig(1)/m/sc' undefined
-(Font)              using `TU/Lato-Lig(1)/m/n' instead on input line 76.
+(Font)              using `TU/Lato-Lig(1)/m/n' instead on input line 106.
 
 
 Package fontspec Info: 
@@ -743,56 +743,19 @@ Package fontspec Info:
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/b/n' undefined
-(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 77.
+(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 108.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 111.
+(hyperref)                removing `\\' on input line 147.
 
-Package svg Info: Calling Inkscape on input line 167.
-runsystem(inkscape "assets/citi-2.svg" -D --export-latex --export-filename="cit
-i-2_svg-tex.pdf")...executed.
-
-runsystem(mkdir -p "./svg-inkscape/")...executed.
-
-runsystem(mv "citi-2_svg-tex.pdf" "./svg-inkscape/citi-2_svg-tex.pdf")...execut
-ed.
-
-runsystem(mv "citi-2_svg-tex.pdf_tex" "./svg-inkscape/citi-2_svg-tex.pdf_tex").
-..executed.
-
-Package svg Info: Last page of `./svg-inkscape/citi-2_svg-tex.pdf' is 1 on inpu
-t line 167.
-(./svg-inkscape/citi-2_svg-tex.pdf_tex
-File: ./svg-inkscape/citi-2_svg-tex.pdf Graphic file (type pdf)
-<use ./svg-inkscape/citi-2_svg-tex.pdf, page 1>
-)
-Package svg Info: Calling Inkscape on input line 188.
-runsystem(inkscape "assets/discover-network.svg" -D --export-latex --export-fil
-ename="discover-network_svg-tex.pdf")...executed.
-
-runsystem(mkdir -p "./svg-inkscape/")...executed.
-
-runsystem(mv "discover-network_svg-tex.pdf" "./svg-inkscape/discover-network_sv
-g-tex.pdf")...executed.
-
-runsystem(mv "discover-network_svg-tex.pdf_tex" "./svg-inkscape/discover-networ
-k_svg-tex.pdf_tex")...executed.
-
-Package svg Info: Last page of `./svg-inkscape/discover-network_svg-tex.pdf' is
- 1 on input line 188.
-
-(./svg-inkscape/discover-network_svg-tex.pdf_tex
-File: ./svg-inkscape/discover-network_svg-tex.pdf Graphic file (type pdf)
-<use ./svg-inkscape/discover-network_svg-tex.pdf, page 1>
-)
 
 LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/m/sc' undefined
-(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 217.
+(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 268.
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/b/sc' undefined
-(Font)              using `TU/Lato-Bol(0)/b/n' instead on input line 217.
+(Font)              using `TU/Lato-Bol(0)/b/n' instead on input line 268.
 
 
 
@@ -816,15 +779,15 @@ anged.
 Package rerunfilecheck Info: Checksums for `dhirendra-pratap-singh-resume.out':
 
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  E79DBC027DEF8E290F240BA1B2FCE05B;1814.
+(rerunfilecheck)             After:  34B8E024BF125CF2B24904B9749669D8;1906.
  ) 
 Here is how much of TeX's memory you used:
- 15040 strings out of 470249
- 305499 string characters out of 5486098
- 791797 words of memory out of 5000000
- 41404 multiletter control sequences out of 15000+600000
+ 14984 strings out of 470249
+ 303537 string characters out of 5486098
+ 790797 words of memory out of 5000000
+ 41356 multiletter control sequences out of 15000+600000
  627625 words of font info for 96 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,11n,130p,505b,680s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,11n,130p,474b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on output/dhirendra-pratap-singh-resume.pdf (1 page).
