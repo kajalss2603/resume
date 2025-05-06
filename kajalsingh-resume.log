@@ -1,13 +1,13 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.1)  6 MAY 2025 19:02
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.5.1)  6 MAY 2025 19:10
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
-**dhirendra-pratap-singh-resume.tex
-(./dhirendra-pratap-singh-resume.tex
+**kajalsingh-resume.tex
+(./kajalsingh-resume.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
-(./dhirendra-pratap-singh-resume.cls
-Document Class: dhirendra-pratap-singh-resume 2014/04/30 CV class
+(./kajalsingh-resume.cls
+Document Class: kajalsingh-resume 2014/04/30 CV class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/size10.clo
@@ -440,11 +440,11 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 (/opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-runsystem(uname -s > "dhirendra-pratap-singh-resume.w18")...executed.
+runsystem(uname -s > "kajalsingh-resume.w18")...executed.
 
 
-(./dhirendra-pratap-singh-resume.w18)
-runsystem(rm -- "dhirendra-pratap-singh-resume.w18")...executed.
+(./kajalsingh-resume.w18)
+runsystem(rm -- "kajalsingh-resume.w18")...executed.
 
 )
 \c@svg@param@lastpage=\count316
@@ -536,8 +536,8 @@ File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 .tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-No file dhirendra-pratap-singh-resume.aux.
-\openout1 = `dhirendra-pratap-singh-resume.aux'.
+No file kajalsingh-resume.aux.
+\openout1 = `kajalsingh-resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
 LaTeX Font Info:    ... okay on input line 44.
@@ -595,7 +595,7 @@ LaTeX Font Info:    ... okay on input line 44.
 
 Package hyperref Info: Link coloring OFF on input line 44.
 \@outlinefile=\write4
-\openout4 = `dhirendra-pratap-singh-resume.out'.
+\openout4 = `kajalsingh-resume.out'.
 
 
 Package hyperref Warning: Rerun to get /PageLabels entry.
@@ -761,7 +761,7 @@ LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/b/sc' undefined
 
 [1
 
-] (output/dhirendra-pratap-singh-resume.aux)
+] (output/kajalsingh-resume.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
@@ -771,23 +771,21 @@ L3 programming layer <2025-04-14>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-Package rerunfilecheck Warning: File `dhirendra-pratap-singh-resume.out' has ch
-anged.
+Package rerunfilecheck Warning: File `kajalsingh-resume.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `dhirendra-pratap-singh-resume.out':
-
+Package rerunfilecheck Info: Checksums for `kajalsingh-resume.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  34B8E024BF125CF2B24904B9749669D8;1906.
  ) 
 Here is how much of TeX's memory you used:
  14984 strings out of 470249
- 303537 string characters out of 5486098
- 790797 words of memory out of 5000000
+ 303141 string characters out of 5486098
+ 790677 words of memory out of 5000000
  41356 multiletter control sequences out of 15000+600000
  627625 words of font info for 96 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,11n,130p,474b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,11n,130p,462b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on output/dhirendra-pratap-singh-resume.pdf (1 page).
+Output written on output/kajalsingh-resume.pdf (1 page).
